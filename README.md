@@ -1,4 +1,4 @@
-# ♻️ [ReciclaTec] | Construindo um Planeta Mais Sustentável
+# ♻️ ReciclaTec | Construindo um Planeta Mais Sustentável
 
 > Uma Landing Page moderna, responsiva e focada na missão de transformar o mercado de eletrônicos usados, promovendo a reciclagem, compra e venda para um futuro mais sustentável.
 
@@ -29,18 +29,18 @@ O design desta Landing Page foi minuciosamente planejado para garantir uma exper
 
 ### 📸 Prévia da Responsividade
 
-*(Espaço reservado para inserção de imagens)*
+<img width="1227" height="740" alt="image" src="https://github.com/user-attachments/assets/7b3408b9-0754-4f28-b38d-662ff3786624" />
+
 
 ---
 
-### **[IMAGEM AQUI]**
+### <img width="396" height="648" alt="image" src="https://github.com/user-attachments/assets/8c3d850e-76cf-4fdf-9971-d9c1502fb1dd" />
+**
 *Captura de tela do layout em Mobile (Celular, largura máxima de 480px)*
 
-### **[IMAGEM AQUI]**
-*Captura de tela do layout em Tablet (Largura entre 481px e 768px)*
+### <img width="558" height="715" alt="image" src="https://github.com/user-attachments/assets/5d15d958-a15a-4d25-8b34-046b7d6929e9" />
 
-### **[IMAGEM AQUI]**
-*Captura de tela do layout em Desktop (Monitor/PC, largura a partir de 1024px)*
+*Captura de tela do layout em Tablet (Largura entre 481px e 768px)*
 
 ---
 
@@ -48,7 +48,7 @@ O design desta Landing Page foi minuciosamente planejado para garantir uma exper
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
+    git clone git@github.com:EwertonHecsley/html-project-recicla-tec.git
     ```
 
 2.  **Instale o Compilador SCSS (Se Necessário):**
@@ -72,6 +72,6 @@ Este projeto é um esforço para a sustentabilidade. Contribuições são sempre
 
 ## ✒️ Autor
 
-* **[Seu Nome/GitHub User]** - (Desenvolvedor Front-end)
+* **Ewerton Hecsley** - (Desenvolvedor Backend)
 
 ---
